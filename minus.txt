@@ -1,0 +1,3 @@
+this file is to point brief of reduction on numbers.
+
+sign for addition is '-' .
